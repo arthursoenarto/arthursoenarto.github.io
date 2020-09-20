@@ -64,7 +64,7 @@
             <a class="col" href="https://codepen.io/arthursoenarto" target="_blank">
               <i class="contact-link-icon fab fa-codepen"></i>
             </a>
-             <a class="col" href="arthursoenartoresume.pdf" download>
+             <a class="col" href="/arthursoenartoresume.pdf" download>
                <!-- href="/resume.pdf" download -->
               <i class="contact-link-icon fas fa-download"></i>
             </a>
