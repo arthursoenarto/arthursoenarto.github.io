@@ -98,14 +98,15 @@
       <div class="experiences-main row">
         <div class="col-md-4">
           <h4> Keramik Diamond Industries </h4>
-          <p> May 2018 - Jul 2018 </p>
+          <p> May 2019 - Aug 2019 </p>
           <location loc="Gresik, Indonesia"></location>
         </div>
         <div class="col-md-8">
           <p><strong>Information Technology Intern</strong></p>
-          <p>- Part of the front-end development team to help create the company's new website: <a
-              href="keramik-diamond.com" target="_blank">keramik-diamond.com</a><br />
-            - Used HTML, CSS and Javascript </p>
+          <p>- Assisted the IT team in developing an interactive and user-friendly website, <a
+              href="keramik-diamond.com" target="_blank">keramik-diamond.com</a><br />, by using HTML,CSS and JavaScript.
+            - Created detailed documents and reports for meetings of the IT department.
+            - Utilized Microsoft Office to keep track of the IT department’s paperwork and to maintain a log of employees. </p>
         </div>
       </div>
       <div class="experiences-main row">
