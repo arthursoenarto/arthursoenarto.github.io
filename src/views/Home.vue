@@ -46,7 +46,7 @@
       <div class="row">
         <div class="col align-items-center">
           <img class="profile-image rounded-circle row justify-content-center mt-3"
-            src="https://media-exp1.licdn.com/dms/image/C5603AQGmxlH1TOYVyw/profile-displayphoto-shrink_800_800/0?e=1597881600&v=beta&t=RB-rROT7SHMHCiGWztPUKlGledc1D-aa_PP8CngvA6M" />
+             src="https://media-exp1.licdn.com/dms/image/C5603AQGmxlH1TOYVyw/profile-displayphoto-shrink_400_400/0?e=1606348800&v=beta&t=_Tu2IRhtCcLEQDH0ltQjyElxpsZ_4mCELJG7Yh7R1vg" />
           <p class="mt-4"> I'm a sophomore student specialising in Computer Science at the University of Toronto with a
             GPA of 3.96. I am interested in game development and the impact of computer programs on education and
             health. I have experience coding in Python, C++, and vue.js and I am currently seeking an internship role as
@@ -104,8 +104,8 @@
         <div class="col-md-8">
           <p><strong>Information Technology Intern</strong></p>
           <p>- Assisted the IT team in developing an interactive and user-friendly website, <a
-              href="keramik-diamond.com" target="_blank">keramik-diamond.com</a><br />, by using HTML,CSS and JavaScript.
-            - Created detailed documents and reports for meetings of the IT department.
+             href="keramik-diamond.com" target="_blank">keramik-diamond.com</a>, by using HTML,CSS and JavaScript.<br/>
+            - Created detailed documents and reports for meetings of the IT department.<br/>
             - Utilized Microsoft Office to keep track of the IT department’s paperwork and to maintain a log of employees. </p>
         </div>
       </div>
@@ -146,12 +146,29 @@
         <p>Relevant Coursework Completed: </p>
         <ul>
           <li> Introduction to Computer Programming </li>
+          <li> Software Design </li>
+          <li> Communication Skills for Computer Scientists </li>
+          <li> Introduction to the Theory of Computation </li>
+          <li> Linear Algebra II </li>
+          <li> Multivariable Calculus </li>
+          <li> Probability & Statistics I </li>
+          <li> Introduction to Computer Science </li>
+          <!-- <li> Introduction to Computer Programming </li>
           <li> Introduction to Computer Science </li>
           <li> Introduction to Management Functions </li>
           <li> Linear Algebra 1 </li>
+          <li> Linear Algebra I </li>
           <li> Introduction to Probability and Modelling </li>
           <li> Introduction to Sociology </li>
+          <li> Introduction to Sociology </li> -->
           <!-- calc1, calc2, mat102, soc100           -->
+        </ul>
+        <p>Next-Semester Coursework (Jan 2021 - Apr 2021): </p>
+        <ul>
+          <li> Software Tools & Systems Programming </li>
+          <li> Data Structures and Analysis </li>
+          <li> Computer Organization </li>
+          <li> Differential Equations I </li>
         </ul>
         <location loc="Toronto, Canada"></location>
       </div>
@@ -243,11 +260,13 @@
     <section class="profile-section">
       <h1 class="display-4 heading">Projects</h1>
       <hr>
-      <p>This website is inspired by <a href="http://www.pascalvangemert.nl/" target="_blank">Pascal Van Gemert</a></p>
+       <h2>Personal Website</h2>
+      <p>During the start of the pandemic, learned web development initially using <a href="http://codepen.io/arthursoenarto/collections"
+       target="_blank">CodePen</a> to sharpen my HTML/CSS/JS and learn Vue.Js and Bootstrap before creating this website using Vue UI. </p>
     </section>
 
     <section class="profile-section">
-      <h1 class="display-4 heading">Hobbies</h1>
+      <h1 class="display-4 heading">Under Construction!</h1>
       <hr>
     </section>
 
